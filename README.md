@@ -1,4 +1,7 @@
 # Spark Collector
+
+[![Build Status](https://travis-ci.com/kasper189/spark-collector.svg?branch=master)](https://travis-ci.com/kasper189/spark-collector)
+
 The aim of this library is to extract metrics of a Spark application given its applicationId retrieving them from 
 the Spark History Server. The metrics are displayed as HTML table.
 
